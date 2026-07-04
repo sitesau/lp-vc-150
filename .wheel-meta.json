@@ -1,0 +1,17 @@
+{
+  "wheel_id": 53,
+  "slug": "lp-vc-150",
+  "project": "tractor-finance-lp-vc-150",
+  "parent_t1_ref": "lp-vc-001",
+  "node_role": "buffer",
+  "money_target": "loanphone.com.au",
+  "primary_kw": "tractor finance",
+  "intended_url": "https://tractor-finance-lp-vc-150.pages.dev/",
+  "links": [
+    {
+      "target_url": "https://tractor-equipment-finance-guide.vercel.app",
+      "anchor": "tractor finance",
+      "rel": "follow"
+    }
+  ]
+}
