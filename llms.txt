@@ -1,6 +1,6 @@
 Compare Loans FAST with No Impact
-tractor finance - Tractor Finance: plain English planning notes before you compare options. Compare options, costs and what to expect before you commit.
+tractor finance - Tractor Finance: A guide to chattel mortgages, leases, and seasonal repayment options for farmers. Compare options, costs, timing and practical checks before you.
 
 Location: Australia
-Site: https://tractor-finance-lp-vc-150.pages.dev/
+Site: https://tractor-finance-lv-150.onrender.com/
 

@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://tractor-finance-lp-vc-150.pages.dev/sitemap.xml
+Sitemap: https://tractor-finance-lv-150.onrender.com/sitemap.xml
